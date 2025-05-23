@@ -2,7 +2,7 @@
 
 This repository is a collection of contracts for TON blockchain used at getgems.io
 
-### Including: 
+### Including:  
 
 - standard NFT, collection, sale & marketplace implementations with tests
 - [SBT](sbt.md) implementation with tests
